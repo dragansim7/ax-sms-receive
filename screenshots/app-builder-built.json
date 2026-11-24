@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Relay — public SMS inboxes",
+      "hasCanvas": false,
+      "bodyTextLen": 1197,
+      "bodyTextHash": "eddb65d7f2a4efc2ccf79067e8f6341563b0554de5499e4c2e86d737303cd179",
+      "bodyTextPrefix": "Relay Numbers Connect Public inbox Receive SMS without handing o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Relay — public SMS inboxes",
+      "hasCanvas": false,
+      "bodyTextLen": 1197,
+      "bodyTextHash": "eddb65d7f2a4efc2ccf79067e8f6341563b0554de5499e4c2e86d737303cd179",
+      "bodyTextPrefix": "Relay Numbers Connect Public inbox Receive SMS without handing o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
